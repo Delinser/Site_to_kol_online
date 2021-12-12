@@ -59,7 +59,7 @@ nav{
     margin-bottom: 10px;
     margin-left: 5%;
     margin-right: 5%;
-    border-radius: 0%;
+    border-radius: 15px;
     padding: 3px;
     font-family: 'Montserrat', sans-serif;
     background-color: honeydew;
@@ -70,6 +70,7 @@ nav{
     transform: translateY(5px);
     text-decoration: none;
     color: black;
+    
  }   
 .header_btn:hover{
     box-shadow: 0px 15px 20px rgb(182, 182, 182);
